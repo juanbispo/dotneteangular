@@ -3,23 +3,24 @@
 <hr>
 
 
-<form action="" class="form">
-  <div class="form-group mb-2">
-    <input type="text" class="form-control mr-2" placeholder="buscar">
-    <button class="btn btn-outline-success">Pesquisar</button>
+<form>
+  <div class="form-group">
+    <input class="form-control" placeholder="Pesquisar">
+    <br>
+    <button type="submit" class="btn btn-primary">Pesquisar</button>
   </div>
 </form>
 
 <hr>
-<table class="table table-striped table-bordered">
-  <thead class="thead thead-dark">
+<table class="table table-striped">
+  <thead class="thead-dark">
     <tr>
-      <th >#</th>
       <th >
         <button class="btn btn-ligh btn-sm" (click)="isCollapsed = !isCollapsed" type="button" data-toggle="collapse">
-          Imagem
+          {{isCollapsed ? "Mostrar" : "Esconder"}}
         </button>
       </th>
+      <th >#</th>
 
       <th >Tema</th>
       <th >Local</th>
@@ -31,8 +32,8 @@
   </thead>
   <tbody *ngIf="eventos && eventos.length" >
     <tr *ngFor="let item of eventos">
-      <td>{{item.eventoId}}</td>
       <td><img src="/assets/{{item.imagemUrl}}" [collapse]="isCollapsed" [isAnimated]="true" id="navbarNav" [style.width.px]="80"></td>
+      <td>{{item.eventoId}}</td>
       <td>{{item.tema}}</td>
       <td>{{item.local}}</td>
       <td>{{item.dataEvento}}</td>
