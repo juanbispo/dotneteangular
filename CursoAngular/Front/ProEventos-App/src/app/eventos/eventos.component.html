@@ -1,7 +1,51 @@
 
-<h1>Eventos Component</h1>
-<div *ngFor="let item of eventos">
-    <p><b>Tema: </b>{{item.tema}}</p>
-    <p><b>Local: </b>{{item.local}}</p>
-    <hr/>
-</div>
+<h2>Eventos</h2>
+<hr>
+
+
+<form action="" class="form">
+  <div class="form-group mb-2">
+    <input type="text" class="form-control mr-2" placeholder="buscar">
+    <button class="btn btn-outline-success">Pesquisar</button>
+  </div>
+</form>
+
+<hr>
+<table class="table table-striped table-bordered">
+  <thead class="thead thead-dark">
+    <tr>
+      <th >#</th>
+      <th >
+        <button class="btn btn-ligh btn-sm" (click)="isCollapsed = !isCollapsed" type="button" data-toggle="collapse">
+          Imagem
+        </button>
+      </th>
+
+      <th >Tema</th>
+      <th >Local</th>
+      <th >Data</th>
+      <th >Qtd de Pessoas</th>
+      <th >Lote</th>
+      <th >Options</th>
+    </tr>
+  </thead>
+  <tbody *ngIf="eventos && eventos.length" >
+    <tr *ngFor="let item of eventos">
+      <td>{{item.eventoId}}</td>
+      <td><img src="/assets/{{item.imagemUrl}}" [collapse]="isCollapsed" [isAnimated]="true" id="navbarNav" [style.width.px]="80"></td>
+      <td>{{item.tema}}</td>
+      <td>{{item.local}}</td>
+      <td>{{item.dataEvento}}</td>
+      <td>{{item.qtdPessoas}}</td>
+      <td>{{item.lote}}</td>
+      <td>Options</td>
+    </tr>
+  </tbody>
+  <tfoot *ngIf="!eventos.length">
+    <tr>
+      <td colspan="8" class="text-center">
+          <h4>Nenhum evento encontrado!!</h4>
+      </td>
+    </tr>
+  </tfoot>
+</table>

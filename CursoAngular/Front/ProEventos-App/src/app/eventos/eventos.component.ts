@@ -8,8 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class EventosComponent implements OnInit {
 
-  public eventos : any;
+  public eventos : any = [];
 
+  isCollapsed = true;
   constructor( private http : HttpClient) { }
 
   ngOnInit(): void {
