@@ -61,3 +61,7 @@ C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
