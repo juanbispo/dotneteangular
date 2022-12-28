@@ -1,4 +1,6 @@
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.deps.json
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.json
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.dev.json
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ref\ProEventos.Persistence.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
@@ -13,6 +15,4 @@ C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Pers
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
-C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.json
-C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.dev.json
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache

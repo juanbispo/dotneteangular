@@ -18,6 +18,7 @@
     <tr>
       <th >
         <button class="btn btn-light btn-sm" (click)="isCollapsed = !isCollapsed" type="button" data-toggle="collapse">
+          <i class="{{isCollapsed ? 'fa fa-eye' : 'fa fa-eye-slash'}}"></i>
           {{isCollapsed ? "Mostrar" : "Esconder"}}
         </button>
       </th>
@@ -33,14 +34,19 @@
   <tbody *ngIf="eventos && eventosFiltrados.length" >
     <tr *ngFor="let item of eventosFiltrados">
       <td><img src="/assets/{{item.imagemUrl}}" [collapse]="isCollapsed" [isAnimated]="true" id="navbarNav" [style.width.px]="80"></td>
-      <td>{{item.eventoId}}</td>
+      <td>{{item.id}}</td>
       <td>{{item.tema}}</td>
       <td>{{item.local}}</td>
       <td>{{item.dataEvento}}</td>
       <td>{{item.qtdPessoas}}</td>
-      <td>{{item.lote}}</td>
-      <td class="text-center" ><button class="btn btn-primary btn-sm me-3">Editar</button>
-          <button class="btn btn-danger btn-sm">Excluir</button>
+      <td>{{item.lotes}}</td>
+      <td class="text-center" >
+          <button class="btn btn-primary btn-sm me-3">
+            <i class="fa fa-edit"></i>
+          </button>
+          <button class="btn btn-danger btn-sm">
+            <i class="fa fa-trash"></i>
+          </button>
       </td>
     </tr>
   </tbody>

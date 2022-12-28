@@ -8,6 +8,8 @@ C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.pdb
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
@@ -18,6 +20,8 @@ C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
@@ -61,7 +65,3 @@ C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
-C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
