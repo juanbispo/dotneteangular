@@ -32,19 +32,21 @@
     </tr>
   </thead>
   <tbody *ngIf="eventos && eventosFiltrados.length" >
-    <tr *ngFor="let item of eventosFiltrados">
-      <td><img src="/assets/{{item.imagemUrl}}" [collapse]="isCollapsed" [isAnimated]="true" id="navbarNav" [style.width.px]="80"></td>
-      <td>{{item.id}}</td>
-      <td>{{item.tema}}</td>
-      <td>{{item.local}}</td>
-      <td>{{item.dataEvento}}</td>
-      <td>{{item.qtdPessoas}}</td>
-      <td>{{item.lotes}}</td>
-      <td class="text-center" >
-          <button class="btn btn-primary btn-sm me-3">
-            <i class="fa fa-edit"></i>
+    <tr *ngFor="let evento of eventosFiltrados">
+      <td>
+        <img src="/assets/{{evento.imagemUrl}}" [collapse]="isCollapsed" [isAnimated]="true" id="navbarNav" [style.width.px]="80">
+      </td>
+      <td>{{evento.id}}</td>
+      <td>{{evento.tema}}</td>
+      <td>{{evento.local}}</td>
+      <td>{{evento.dataEvento | DateFormatPipe}}</td>
+      <td>{{evento.qtdPessoas}}</td>
+      <td>{{evento.lotes[0].nome | uppercase}}</td>
+      <td>
+          <button type="button" class="btn btn-primary btn-sm mr-2" tooltip="Editar" container="body" placement="auto" [adaptivePosition]="false">
+            <i class="fa fa-edit" ></i>
           </button>
-          <button class="btn btn-danger btn-sm">
+          <button type="button" class="btn btn-danger btn-sm" tooltip="Excluir" container="body" placement="top" (click)="openModal(template)">
             <i class="fa fa-trash"></i>
           </button>
       </td>
@@ -58,3 +60,12 @@
     </tr>
   </tfoot>
 </table>
+
+<ng-template #template>
+  <div class="modal-body text-center">
+    <p>Tem certeza que quer deletar esse evento?</p>
+    <button type="button" class="btn btn-default" (click)="confirm()" >Sim</button>
+    <button type="button" class="btn btn-primary" (click)="decline()" >Não</button>
+  </div>
+</ng-template>
+
