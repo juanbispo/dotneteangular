@@ -10,7 +10,7 @@ import { EventosComponent } from './eventos/eventos.component';
 import { PalestrantesComponent } from './palestrantes/palestrantes.component';
 import { NavComponent } from './nav/nav.component';
 
-
+import { NgxSpinnerModule } from 'ngx-spinner';
 import {ModalModule} from 'ngx-bootstrap/modal';
 import {CollapseModule} from 'ngx-bootstrap/collapse';
 import {TooltipModule} from 'ngx-bootstrap/tooltip';
@@ -38,10 +38,10 @@ import { DateTimeFormatPipe } from './helpers/DateTimeFormat.pipe';
     BsDropdownModule.forRoot(),
     ModalModule.forRoot(),
     ToastrModule.forRoot({
-      timeOut: 4000,
+      timeOut: 5000,
       positionClass: 'toast-bottom-right',
       preventDuplicates: true,
-      progressBar : true
+      progressBar:true
     }),
 
   ],
