@@ -2,11 +2,15 @@
 @import '../node_modules/ngx-bootstrap/datepicker/bs-datepicker.css';
 @import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 @import '../node_modules/@fortawesome/fontawesome-free/css/all.min.css';
-@import 'ngx-toastr/toastr';
-@import "node_modules/ngx-spinner/animations/ball-scale-multiple.css";
-
-/* Importing Bootstrap SCSS file. */
-@import "./node_modules/bootstrap/scss/bootstrap";
+@import '../node_modules/ngx-toastr/toastr';
+@import '../node_modules/ngx-spinner/animations/ball-scale-multiple.css';
+@import '../node_modules/bootswatch/dist/cosmo/bootstrap.min.css';
 
 /* Importing Datepicker SCSS file. */
-@import "node_modules/ngx-bootstrap/datepicker/bs-datepicker";
+@import '../node_modules/ngx-bootstrap/datepicker/bs-datepicker';
+
+
+.tooltip {
+  position: absolute;
+}
+
