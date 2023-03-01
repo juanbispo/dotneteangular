@@ -774,19 +774,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sale\\.nuget\\packages\\": {}
+    "C:\\Users\\Junin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sale\\Desktop\\JUAN-ESTUDOS\\Angular\\CursoAngular\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Junin\\OneDrive\\Área de Trabalho\\Juan\\dotneteangular\\CursoAngular\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
       "projectName": "ProEventos.Persistence",
-      "projectPath": "C:\\Users\\Sale\\Desktop\\JUAN-ESTUDOS\\Angular\\CursoAngular\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
-      "packagesPath": "C:\\Users\\Sale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sale\\Desktop\\JUAN-ESTUDOS\\Angular\\CursoAngular\\Back\\src\\ProEventos.Persistence\\obj\\",
+      "projectPath": "C:\\Users\\Junin\\OneDrive\\Área de Trabalho\\Juan\\dotneteangular\\CursoAngular\\Back\\src\\ProEventos.Persistence\\ProEventos.Persistence.csproj",
+      "packagesPath": "C:\\Users\\Junin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Junin\\OneDrive\\Área de Trabalho\\Juan\\dotneteangular\\CursoAngular\\Back\\src\\ProEventos.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Junin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -800,8 +800,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Sale\\Desktop\\JUAN-ESTUDOS\\Angular\\CursoAngular\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
-              "projectPath": "C:\\Users\\Sale\\Desktop\\JUAN-ESTUDOS\\Angular\\CursoAngular\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
+            "C:\\Users\\Junin\\OneDrive\\Área de Trabalho\\Juan\\dotneteangular\\CursoAngular\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj": {
+              "projectPath": "C:\\Users\\Junin\\OneDrive\\Área de Trabalho\\Juan\\dotneteangular\\CursoAngular\\Back\\src\\ProEventos.Domain\\ProEventos.Domain.csproj"
             }
           }
         }
@@ -840,7 +840,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
       }
     }
   }

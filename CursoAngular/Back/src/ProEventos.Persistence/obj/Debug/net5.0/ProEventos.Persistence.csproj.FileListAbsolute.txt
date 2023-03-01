@@ -16,3 +16,21 @@ C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Pers
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.deps.json
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.json
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.runtimeconfig.dev.json
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ref\ProEventos.Persistence.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.AssemblyReference.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfoInputs.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.AssemblyInfo.cs
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.csproj.CopyComplete
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ref\ProEventos.Persistence.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.pdb
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Persistence\obj\Debug\net5.0\ProEventos.Persistence.genruntimeconfig.cache

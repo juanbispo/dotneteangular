@@ -10,3 +10,15 @@ C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Doma
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
 C:\Users\Sale\Desktop\JUAN-ESTUDOS\Angular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.deps.json
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\bin\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.AssemblyReference.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfoInputs.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.AssemblyInfo.cs
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ref\ProEventos.Domain.dll
+C:\Users\Junin\OneDrive\Área de Trabalho\Juan\dotneteangular\CursoAngular\Back\src\ProEventos.Domain\obj\Debug\net5.0\ProEventos.Domain.pdb
